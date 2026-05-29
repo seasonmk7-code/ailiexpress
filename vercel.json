@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "destination": "https://heichaung-tuki-logistics-board.hf.space/$1"
+      "destination": "https://heichaung-tuki-logistics-board.hf.space/$1"
     }
   ]
 }
