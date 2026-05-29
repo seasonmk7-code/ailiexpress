@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://huggingface.co/spaces/HEICHAUNG/Tuki-Logistics-Board"
+      "destination": "destination": "https://heichaung-tuki-logistics-board.hf.space/$1"
     }
   ]
 }
